@@ -1,0 +1,14 @@
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\flyweight\obj\Debug\net8.0\flyweight.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\flyweight\obj\Debug\net8.0\flyweight.AssemblyInfoInputs.cache
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\flyweight\obj\Debug\net8.0\flyweight.AssemblyInfo.cs
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\flyweight\obj\Debug\net8.0\flyweight.csproj.CoreCompileInputs.cache
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\flyweight\bin\Debug\net8.0\flyweight.exe
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\flyweight\bin\Debug\net8.0\flyweight.deps.json
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\flyweight\bin\Debug\net8.0\flyweight.runtimeconfig.json
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\flyweight\bin\Debug\net8.0\flyweight.dll
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\flyweight\bin\Debug\net8.0\flyweight.pdb
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\flyweight\obj\Debug\net8.0\flyweight.dll
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\flyweight\obj\Debug\net8.0\refint\flyweight.dll
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\flyweight\obj\Debug\net8.0\flyweight.pdb
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\flyweight\obj\Debug\net8.0\flyweight.genruntimeconfig.cache
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\flyweight\obj\Debug\net8.0\ref\flyweight.dll

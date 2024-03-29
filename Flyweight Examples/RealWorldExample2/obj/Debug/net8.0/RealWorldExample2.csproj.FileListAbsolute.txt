@@ -1,0 +1,14 @@
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\RealWorldExample2\bin\Debug\net8.0\RealWorldExample2.exe
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\RealWorldExample2\bin\Debug\net8.0\RealWorldExample2.deps.json
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\RealWorldExample2\bin\Debug\net8.0\RealWorldExample2.runtimeconfig.json
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\RealWorldExample2\bin\Debug\net8.0\RealWorldExample2.dll
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\RealWorldExample2\bin\Debug\net8.0\RealWorldExample2.pdb
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\RealWorldExample2\obj\Debug\net8.0\RealWorldExample2.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\RealWorldExample2\obj\Debug\net8.0\RealWorldExample2.AssemblyInfoInputs.cache
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\RealWorldExample2\obj\Debug\net8.0\RealWorldExample2.AssemblyInfo.cs
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\RealWorldExample2\obj\Debug\net8.0\RealWorldExample2.csproj.CoreCompileInputs.cache
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\RealWorldExample2\obj\Debug\net8.0\RealWorldExample2.dll
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\RealWorldExample2\obj\Debug\net8.0\refint\RealWorldExample2.dll
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\RealWorldExample2\obj\Debug\net8.0\RealWorldExample2.pdb
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\RealWorldExample2\obj\Debug\net8.0\RealWorldExample2.genruntimeconfig.cache
+F:\ITI 9 Month SD\15.Design Pattern\Dp prese\flyweight\RealWorldExample2\obj\Debug\net8.0\ref\RealWorldExample2.dll

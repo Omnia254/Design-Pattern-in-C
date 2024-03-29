@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ITI 9 Month SD\\15.Design Pattern\\Dp prese\\flyweight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B16772-91C6-46CB-8366-F509EB957791}|RealWorldExample2\\RealWorldExample2.csproj|f:\\iti 9 month sd\\15.design pattern\\dp prese\\flyweight\\realworldexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B16772-91C6-46CB-8366-F509EB957791}|RealWorldExample2\\RealWorldExample2.csproj|solutionrelative:realworldexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE33DC3-EA1A-43A6-9C90-7B4B917015AF}|flyweight\\flyweight.csproj|f:\\iti 9 month sd\\15.design pattern\\dp prese\\flyweight\\flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE33DC3-EA1A-43A6-9C90-7B4B917015AF}|flyweight\\flyweight.csproj|solutionrelative:flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\ITI 9 Month SD\\15.Design Pattern\\Dp prese\\flyweight\\RealWorldExample2\\Program.cs",
+              "RelativeDocumentMoniker": "RealWorldExample2\\Program.cs",
+              "ToolTip": "F:\\ITI 9 Month SD\\15.Design Pattern\\Dp prese\\flyweight\\RealWorldExample2\\Program.cs",
+              "RelativeToolTip": "RealWorldExample2\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAEYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T06:10:51.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\ITI 9 Month SD\\15.Design Pattern\\Dp prese\\flyweight\\flyweight\\Program.cs",
+              "RelativeDocumentMoniker": "flyweight\\Program.cs",
+              "ToolTip": "F:\\ITI 9 Month SD\\15.Design Pattern\\Dp prese\\flyweight\\flyweight\\Program.cs",
+              "RelativeToolTip": "flyweight\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T05:47:21.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
